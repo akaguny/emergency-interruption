@@ -1,0 +1,8 @@
+node_modules
+.idea
+.sonar
+docs
+grunt-config
+Gruntfile.js
+.yaspeller
+yaspeller_report.html
