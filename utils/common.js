@@ -33,4 +33,4 @@ module.exports = {
   isArgumentPresentInCommandLine : function (argument) {
     return process.argv.indexOf(argument) !== -1;
   }
-}
+};
