@@ -4,7 +4,7 @@
  * @fileoverview Плагин экстренных прерываний автотестов, использующих protractor и jasmine
  * @module plugin/emergency-interruption
  */
-var common = require('ng-components-test-sdk/utils/common'),
+var common = require('utils/common'),
     EmergencyInterruption = {
       onPrepare : function () {
         if (common.isArgumentPresentInCommandLine('--e')) {
