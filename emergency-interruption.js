@@ -1,6 +1,5 @@
 /**
  * @file       emergency-interruption.js
- * @copyright  Copyright (c) CJSC PETER-SERVICE, 2016.
  * @fileoverview Плагин экстренных прерываний автотестов, использующих protractor и jasmine
  * @module plugin/emergency-interruption
  */
