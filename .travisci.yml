@@ -1,0 +1,10 @@
+language: node_js
+machine:
+  node:
+    version: iojs
+dependencies:
+  override:
+    - npm install
+test:
+  override:
+    - eslint
